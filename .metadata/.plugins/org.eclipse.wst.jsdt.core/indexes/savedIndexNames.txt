@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\Users\turas\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3856202261.index
+2356136585.index
+2454410285.index
+626480334.index
+2814483960.index
+3177888886.index
+2526407541.index
